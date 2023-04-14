@@ -10,6 +10,6 @@ int main() {
 	double d=12.20;
 	bool e=true;
 
-	cout << a;
+	cout << a << " " << b << " " <<  c << " " << d << " " <<  e;
 
 }
